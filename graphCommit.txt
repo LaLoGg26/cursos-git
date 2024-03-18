@@ -1,0 +1,34 @@
+*   40a5287 Resolviendo conflicto en estaciones del anio u fechas de inicio
+|\  
+| * b44faae agregando las estaciones del anio
+* | ea73c5c agregando estaciones del anio con fecha de ininicio
+|/  
+*   671b85b resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 5927073 agregando index.js al index.html
+* |   95e43e8 agregando style.ccs al index.html
+|\ \  
+* | | cfef071 creando rema js
+| |/  
+|/|   
+| | *   70d9de7 Merge pull request #1 from LaLoGg26/main
+| | |\  
+| | |/  
+| |/|   
+| * | 7e839ee creando index.html
+| | | * 1d74c65 creando style.css
+| |_|/  
+|/| |   
+* | | 3f5b9e5 Creando index.html
+* | | 8da3fc0 borrando primer html
+|/ /  
+* | 13279b7 ignorando archivos .exe
+* | 0dddfba Agragando parrafo
+* | 1de25dc Delate clear
+* | 7858fd9 Hola mundo
+* | d2a70a2 Mi primer commit
+|/  
+* 656ba52 Creando licencia del repositorio
+* 41d0961 jajajaj la volvi a cagar
+* 976c554 agregando cambios
+* d54ef8b primer commit 🤧
